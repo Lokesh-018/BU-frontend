@@ -1,4 +1,3 @@
-import image20231 from './image20231.jpg';
 import image20232 from './image20232.jpg';
 import image20233 from './image20233.jpg';
 import image20234 from './image20234.jpg';
@@ -39,7 +38,6 @@ import image202338 from './image202338.jpg';
 import image202339 from './image202339.jpg';
 
 const assets = {
-  image20231,
   image20232,
   image20233,
   image20234,
