@@ -7,7 +7,7 @@ const AppContext = createContext();
 const AppContextProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem("token") || "");
   const [userData, setUserData] = useState(null);
-  const backendUrl = "http://localhost:5000"; // Ensure this is correct for your backend
+  const backendUrl = "https://bu-backend-j2dj.onrender.com"; // Ensure this is correct for your backend
 
   // Save token to localStorage whenever it changes
   useEffect(() => {
