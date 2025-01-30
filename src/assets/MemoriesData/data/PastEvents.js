@@ -1,4 +1,3 @@
-// import conference2024 from '../images/eventImages2024/conference2023/assets.js';
 import treeplantation2024 from '../images/eventImages2024/treeplantation/assets.js';
 import conference2023 from '../images/eventImages2024/conference2023/assets.js';
 import farewell2023 from '../images/eventImages2024/farewell23/assets.js'
@@ -26,7 +25,6 @@ const pastEvents = [
         coverImage: conference2023.image202322,
         description: "Description for Freshers Day",
         images: [
-            conference2023.image20231,
       conference2023.image20232,
       conference2023.image20233,
       conference2023.image20234,
@@ -64,10 +62,8 @@ const pastEvents = [
       conference2023.image202336,
       conference2023.image202337,
       conference2023.image202338,
-      conference2023.image202339,
-
-           
-        ]
+      conference2023.image202339,  
+    ]
     },
     {
         id: 3,
